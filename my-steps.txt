@@ -108,6 +108,7 @@ git add .
 git commit -m 'starting a menu'
 git push
 git add my-steps.txt
+git commit -m 'first commit'
 git push
 
 ### Step 7
