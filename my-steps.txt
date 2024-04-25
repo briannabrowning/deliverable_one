@@ -90,9 +90,10 @@ rm -r drinks
 
 
 ### Step 4
-cd unit1-git-practice
-git init unit1-git-practice 
-ls -a
+cd desktop/unit1-git-practice
+git init
+git add .
+git commit -m 'first commit'
 
 ### Step 5
 
